@@ -148,8 +148,66 @@ Interactive listening analytics, visualization and similarity-based track recomm
 </td>
 </tr>
 </table>
-<!-- ===================== STATS ===================== -->✦ GitHub in Numbers
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yunjia0928-coder&show_icons=true&hide_border=true&title_color=6F5A9B&icon_color=8B6FCB&text_color=5B5266&bg_color=F7F3FF" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjia0928-coder&layout=compact&hide_border=true&title_color=6F5A9B&text_color=5B5266&bg_color=F7F3FF" /></div>
+<!-- ===================== AT A GLANCE ===================== -->
+
+## ✦ At a Glance
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔬 Research Profile</h3>
+
+<br>
+
+🎓 <strong>MSc Biomedical Informatics (Analytics)</strong><br>
+National University of Singapore
+
+<br>
+
+📄 <strong>Peer-Reviewed Research</strong><br>
+<em>Environment International</em> · 2025
+
+<br>
+
+🧬 <strong>Research Areas</strong><br>
+Computational Health · Risk Assessment · Biomedical Data
+
+<br>
+
+<a href="https://doi.org/10.1016/j.envint.2024.109229">→ View Publication</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Technical Focus</h3>
+
+<br>
+
+🐍 <strong>Languages</strong><br>
+Python · R · SQL
+
+<br>
+
+🧠 <strong>Machine Learning</strong><br>
+PyTorch · scikit-learn · XGBoost
+
+<br>
+
+📊 <strong>Data & Applications</strong><br>
+pandas · Streamlit · Jupyter
+
+<br>
+
+🔬 <strong>Modeling</strong><br>
+ML · Deep Learning · HTTK/IVIVE
+
+</td>
+
+</tr>
+</table>
 <!-- ===================== CONNECT ===================== -->✦ Let's Connect
 <div align="center">Biomedical Informatics · Healthcare AI · Computational Research
 
