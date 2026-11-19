@@ -83,37 +83,68 @@ Machine Learning & Data
 Tools
 
 </div>
-<!-- ===================== PROJECTS ===================== -->✦ Selected Projects
+<!-- ===================== PROJECTS ===================== -->
+
+## ✦ Selected Projects
+
 <table>
 <tr>
-<td width="50%" valign="top">🏥 Early ICU Risk Warning System
+<td width="50%" valign="top">
+
+<h3>🏥 <a href="https://github.com/yunjia0928-coder/icu-risk-warning-system">Early ICU Risk Warning System</a></h3>
+
 Confidence-aware ICU risk prediction using multiple imputation and tree-based machine learning.
 
-Python · MICE · XGBoost · Clinical ML
+<strong>Python · MICE · XGBoost · Clinical ML</strong>
 
-→ View Project
+<br><br>
+
+<a href="https://github.com/yunjia0928-coder/icu-risk-warning-system">→ View Project</a>
+
 </td>
-<td width="50%" valign="top">🧠 CLIP Vision-Language Modeling
+
+<td width="50%" valign="top">
+
+<h3>🧠 <a href="https://github.com/yunjia0928-coder/CLIP-Vision-Language-Modeling">CLIP Vision-Language Modeling</a></h3>
+
 Zero-shot learning, image-text retrieval, parameter-efficient fine-tuning and LoRA adaptation.
 
-PyTorch · CLIP · LoRA · PEFT
+<strong>PyTorch · CLIP · LoRA · PEFT</strong>
 
-→ View Project
+<br><br>
+
+<a href="https://github.com/yunjia0928-coder/CLIP-Vision-Language-Modeling">→ View Project</a>
+
 </td>
-</tr><tr>
-<td width="50%" valign="top">🔬 Bisphenol Risk Assessment
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔬 <a href="https://github.com/yunjia0928-coder/bisphenol-computational-risk-assessment">Bisphenol Risk Assessment</a></h3>
+
 Computational exposure and mixture risk assessment using high-throughput toxicokinetics and IVIVE.
 
-R · ToxCast · HTTK · IVIVE
+<strong>R · ToxCast · HTTK · IVIVE</strong>
 
-→ View Project
+<br><br>
+
+<a href="https://github.com/yunjia0928-coder/bisphenol-computational-risk-assessment">→ View Project</a>
+
 </td>
-<td width="50%" valign="top">🎧 Spotify Listening Dashboard
+
+<td width="50%" valign="top">
+
+<h3>🎧 <a href="https://github.com/yunjia0928-coder/spotify-listening-dashboard">Spotify Listening Dashboard</a></h3>
+
 Interactive listening analytics, visualization and similarity-based track recommendation.
 
-Python · pandas · Streamlit · Plotly
+<strong>Python · pandas · Streamlit · Plotly</strong>
 
-→ View Project
+<br><br>
+
+<a href="https://github.com/yunjia0928-coder/spotify-listening-dashboard">→ View Project</a>
+
 </td>
 </tr>
 </table>
