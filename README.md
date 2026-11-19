@@ -32,29 +32,50 @@ I'm currently pursuing an **MSc in Biomedical Informatics (Analytics) at the Nat
 
 My work sits at the intersection of **healthcare, data science, and machine learning** — from computational toxicology and probabilistic risk assessment to clinical prediction and multimodal deep learning.
 
-```text
-Research & Health Science  →  Data & Computational Modeling  →  Machine Learning & AI
+<div align="center">
+
+**Research & Health Science** → **Data & Computational Modeling** → **Machine Learning & AI**
+
+</div>
 
 Currently exploring:
-- 🏥 Healthcare ML — clinical risk prediction and health data analytics
-- 🧠 Deep Learning — vision-language models and multimodal AI
-- 🧬 Computational Health — quantitative and probabilistic modeling
-- 🔬 Computational Toxicology — ToxCast, HTTK, IVIVE and mixture risk assessment
 
-<!-- ===================== RESEARCH ===================== -->✦ Research Highlight
-<div align="center">🔬 Bisphenol Computational Risk Assessment
-ToxCast · HTTK · IVIVE · PBTK · Probabilistic Modeling · R
+- 🏥 **Healthcare ML** — clinical risk prediction and health data analytics
+- 🧠 **Deep Learning** — vision-language models and multimodal AI
+- 🧬 **Computational Health** — quantitative and probabilistic modeling
+- 🔬 **Computational Toxicology** — ToxCast, HTTK, IVIVE and mixture risk assessment
+
+<br>
+
+<!-- ===================== RESEARCH ===================== -->
+
+## ✦ Research Highlight
+
+<div align="center">
+
+### 🔬 Bisphenol Computational Risk Assessment
+
+**ToxCast · HTTK · IVIVE · PBTK · Probabilistic Modeling · R**
 
 Computational modeling for translating in-vitro bioactivity into human-equivalent risk estimates and evaluating combined exposure to bisphenol mixtures.
 
+<br>
 
-Chiu, C.-H., Sun, S.-H., Yao, Y.-J., et al. (2025)
-Concentrations, composition profiles, and in vitro–in silico-based mixture risk assessment of bisphenol A and its analogs in plant-based foods.
-Environment International, 195, 109229.
+[![Environment International](https://img.shields.io/badge/Environment_International-2025-E9DFFF?style=for-the-badge&labelColor=5B477E)](https://doi.org/10.1016/j.envint.2024.109229)
 
-View Publication · View Computational Project
+**Chiu, C.-H., Sun, S.-H., Yao, Y.-J., et al. (2025)**  
+*Concentrations, composition profiles, and in vitro–in silico-based mixture risk assessment of bisphenol A and its analogs in plant-based foods.*  
+***Environment International, 195***, 109229.
+
+[View Publication](https://doi.org/10.1016/j.envint.2024.109229) · [View Computational Project](https://github.com/yunjia0928-coder/bisphenol-computational-risk-assessment)
+
 </div>
-<!-- ===================== STACK ===================== -->✦ Tech Stack
+
+<br>
+
+<!-- ===================== STACK ===================== -->
+
+## ✦ Tech Stack
 <div align="center">Languages
 
 Machine Learning & Data
