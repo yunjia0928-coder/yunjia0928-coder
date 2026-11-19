@@ -187,17 +187,17 @@ Interactive listening analytics, visualization and similarity-based track recomm
 🎓 <strong>MSc Biomedical Informatics (Analytics)</strong><br>
 National University of Singapore
 
-<br>
+<br><br>
 
 📄 <strong>Peer-Reviewed Research</strong><br>
 <em>Environment International</em> · 2025
 
-<br>
+<br><br>
 
-🧬 <strong>Research Areas</strong><br>
-Computational Health · Risk Assessment · Biomedical Data
+🧬 <strong>Research Background</strong><br>
+Computational Health · Health Risk Assessment · Biomedical Data
 
-<br>
+<br><br>
 
 <a href="https://doi.org/10.1016/j.envint.2024.109229">→ View Publication</a>
 
@@ -205,43 +205,53 @@ Computational Health · Risk Assessment · Biomedical Data
 
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Technical Focus</h3>
+<h3 align="center">🚀 Current Focus</h3>
 
 <br>
 
-🐍 <strong>Languages</strong><br>
-Python · R · SQL
+🏥 <strong>Healthcare Machine Learning</strong><br>
+Clinical risk prediction · Health data analytics
 
-<br>
+<br><br>
 
-🧠 <strong>Machine Learning</strong><br>
-PyTorch · scikit-learn · XGBoost
+🧠 <strong>Biomedical AI</strong><br>
+Deep learning · Vision-language modeling
 
-<br>
+<br><br>
 
-📊 <strong>Data & Applications</strong><br>
-pandas · Streamlit · Jupyter
+🔬 <strong>Computational Modeling</strong><br>
+Probabilistic modeling · HTTK/IVIVE
 
-<br>
+<br><br>
 
-🔬 <strong>Modeling</strong><br>
-ML · Deep Learning · HTTK/IVIVE
+📍 <strong>Currently</strong><br>
+Singapore · NUS
 
 </td>
 
 </tr>
 </table>
-<!-- ===================== CONNECT ===================== -->✦ Let's Connect
-<div align="center">Biomedical Informatics · Healthcare AI · Computational Research
+
+<br>
+<!-- ===================== CONNECT ===================== -->
+
+## ✦ Let's Connect
+
+<div align="center">
+
+**Biomedical Informatics · Healthcare AI · Computational Research**
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/yunjia-yao-190214299/">
-  <img src="https://img.shields.io/badge/LinkedIn-8B6FCB?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-8B6FCB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://orcid.org/0009-0000-7515-757X">
-  <img src="https://img.shields.io/badge/ORCID-A78BCE?style=flat-square&logo=orcid&logoColor=white" />
+  <img src="https://img.shields.io/badge/ORCID-A78BCE?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
 
+<br><br>
 
-Turning health data into evidence, models, and actionable insight.
+*Turning health data into evidence, models, and actionable insight.*
+
 </div>
-```
