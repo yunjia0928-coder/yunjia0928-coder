@@ -76,13 +76,36 @@ Computational modeling for translating in-vitro bioactivity into human-equivalen
 <!-- ===================== STACK ===================== -->
 
 ## ✦ Tech Stack
-<div align="center">Languages
 
-Machine Learning & Data
+<div align="center">
 
-Tools
+### Languages
+
+<img src="https://img.shields.io/badge/Python-8B6FCB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/R-A78BCE?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-6F5A9B?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br><br>
+
+### Machine Learning & Data
+
+<img src="https://img.shields.io/badge/PyTorch-8B6FCB?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-A78BCE?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-6F5A9B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pandas-8B6FCB?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<br><br>
+
+### Tools & Applications
+
+<img src="https://img.shields.io/badge/Jupyter-A78BCE?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-8B6FCB?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-6F5A9B?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-A78BCE?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+<br>
 <!-- ===================== PROJECTS ===================== -->
 
 ## ✦ Selected Projects
